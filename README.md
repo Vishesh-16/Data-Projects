@@ -23,3 +23,16 @@
     - Identified key product performance metrics and customer satisfaction drivers.
 
 5. Yulu Case Study - (Hypothesis , A/B Testing)
+    - Yulu seeks to identify the key variables that impact the demand for its shared electric cycles in the Indian market.
+    - The objectives are:
+         - To determine the most significant factors influencing ridership patterns.
+         - Assess how well these variables explain fluctuations in demand.
+   
+7. Delhivery Case Study - (Feature Engineering)
+       - Delhivery seeks to extract meaningful insights from the massive flow of data emerging from its data engineering pipelines.
+       - Feature engineering:
+            – Creating features
+            – Merging rows and aggregatinng fields
+            – One-hot encoding of categorical variables
+            – Normalize/ Standardize the numerical features using MinMaxScaler or StandardScaler
+ 
